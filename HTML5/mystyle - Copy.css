@@ -1,0 +1,52 @@
+body{
+
+	background-color: rgba(63,25,43,.6);
+    color: white;
+    
+
+}
+
+.first
+{
+
+	background-image: url("food.jpg")
+}
+
+
+h2
+{ text-align: center;
+	color: yellow;
+font-family: Comic Sans MS;
+font-size: 60px;
+animation-timing-function: linear;
+
+}
+
+.rock
+{
+
+ width:70%;
+ background-color: rgba(12,312,423,0.4);
+ color: yellow ;
+ text-align: center;
+
+}
+.happy
+{
+  
+  width: 60%;
+lighting-color: lightpink;
+align-items: center;
+
+
+
+}
+
+#room
+{
+
+ color: yellow;
+ text-align: center;
+ width: 70%
+
+}
